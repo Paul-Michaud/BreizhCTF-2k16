@@ -1,0 +1,315 @@
+You have 10.0 seconds to solve this problem: 746 - 232 + 56
+
+ 746 - 232 + 56
+570
+You have 6.66666666667 seconds to solve this problem: 2869 + -2712 - 2629
+
+ 2869 + -2712 - 2629
+-2472
+You have 4.44444444444 seconds to solve this problem: -1906 + 10760 / 10269
+
+ -1906 + 10760 / 10269
+-1905
+You have 2.96296296296 seconds to solve this problem: -1141 - -25025 / -36966
+
+ -1141 - -25025 / -36966
+-1141
+You have 1.97530864198 seconds to solve this problem: 1603 * -48590 - 52667
+
+ 1603 * -48590 - 52667
+-77942437
+You have 1.31687242798 seconds to solve this problem: 51226 / -71942 / -418565
+
+ 51226 / -71942 / -418565
+0
+You have 0.877914951989 seconds to solve this problem: -546825 * -490969 / -996338
+
+ -546825 * -490969 / -996338
+-269461
+You have 0.585276634659 seconds to solve this problem: -3242325 * -3629101 / 756962
+
+ -3242325 * -3629101 / 756962
+15544670
+Step 2
+Tour num 0
+[+] 2nd Step: Not Bad! Now, you have 10.0 seconds to solve these equations:
+440x + 443y = -446958
+423x + 426y = -429771
+x value:
+
+['[+] 2nd Step', ' Not Bad! Now, you have 10.0 seconds to solve these equations', '\n440x + 443y = -446958\n423x + 426y = -429771\nx value', '\n']
+eq1: 440x + 443y = -446958
+eq2: 423x + 426y = -429771
+x1 440
+y1 443
+x2 423
+y2 426
+-446958
+-429771
+y value:
+
+[+] 2nd Step: Not Bad! Now, you have 6.66666666667 seconds to solve these equations:
+
+Tour num 1
+-1105x + -750y = -339415
+1800x + 1189y = 490988
+x value:
+
+['-1105x + -750y = -339415\n1800x + 1189y = 490988\nx value', '\n']
+eq1: -1105x + -750y = -339415
+eq2: 1800x + 1189y = 490988
+x1 -1105
+y1 -750
+x2 1800
+y2 1189
+-339415
+490988
+y value:
+
+Tour num 2
+[+] 2nd Step: Not Bad! Now, you have 4.44444444444 seconds to solve these equations:
+
+['-8470x + 8930y = -4918860\n-467x + 9806y = 26011880\nx value', '\n']
+eq1: -8470x + 8930y = -4918860
+eq2: -467x + 9806y = 26011880
+x1 -8470
+y1 8930
+x2 -467
+y2 9806
+-4918860
+26011880
+y value:
+
+Tour num 3
+[+] 2nd Step: Not Bad! Now, you have 2.96296296296 seconds to solve these equations:
+
+['33482x + 26984y = -1567672996\n-19425x + -2825y = 503817150\nx value', '\n']
+eq1: 33482x + 26984y = -1567672996
+eq2: -19425x + -2825y = 503817150
+x1 33482
+y1 26984
+x2 -19425
+y2 -2825
+-1567672996
+503817150
+y value:
+
+Tour num 4
+[+] 2nd Step: Not Bad! Now, you have 1.97530864198 seconds to solve these equations:
+
+['-15778x + -35602y = -1646111600\n-18263x + 32452y = -880006120\nx value', '\n']
+eq1: -15778x + -35602y = -1646111600
+eq2: -18263x + 32452y = -880006120
+x1 -15778
+y1 -35602
+x2 -18263
+y2 32452
+-1646111600
+-880006120
+y value:
+
+Tour num 5
+[+] 2nd Step: Not Bad! Now, you have 1.31687242798 seconds to solve these equations:
+
+['-116970x + -3764y = 30105503444\n303556x + 427132y = -197841512980\nx value', '\n']
+eq1: -116970x + -3764y = 30105503444
+eq2: 303556x + 427132y = -197841512980
+x1 -116970
+y1 -3764
+x2 303556
+y2 427132
+30105503444
+-197841512980
+y value:
+
+Tour num 6
+[+] 2nd Step: Not Bad! Now, you have 0.877914951989 seconds to solve these equations:
+
+['1078837x + -539128y = 1634710011151\n-847231x + -1089023y = -736607203066\nx value', '\n']
+eq1: 1078837x + -539128y = 1634710011151
+eq2: -847231x + -1089023y = -736607203066
+x1 1078837
+y1 -539128
+x2 -847231
+y2 -1089023
+1634710011151
+-736607203066
+y value:
+
+Tour num 7
+[+] 2nd Step: Not Bad! Now, you have 0.585276634659 seconds to solve these equations:
+
+['-1632417x + -2669493y = 10950350514579\n477903x + 2960880y = -6976054945215\nx value', '\n']
+eq1: -1632417x + -2669493y = 10950350514579
+eq2: 477903x + 2960880y = -6976054945215
+x1 -1632417
+y1 -2669493
+x2 477903
+y2 2960880
+10950350514579
+-6976054945215
+y value:
+
+WoW, i'm so impressed! Let's make a last test ...
+
+Derivees tour 0
+[+] Ok, here we are! You've reached the 3rd step!!!! WoW, you've 10.000000s to calculate this derivative where x = 3:
+f(x) = 8x^3
+f'(x) value?:
+
+val : 3
+Equation :8x^3
+8^3
+   3
+8 x
+    2
+24 x
+Derivees tour 1
+[+] Ok, here we are! You've reached the 3rd step!!!! WoW, you've 6.666667s to calculate this derivative where x = 7:
+
+val : 7
+f(x) = 5x^7 + 1x^8 + 3x^9 + 3x^7 + 7x^1
+f'(x) value?:
+
+ 5x^7 + 1x^8 + 3x^9 + 3x^7 + 7x^1
+5^7
+1^8
+3^9
+3^7
+7^1
+   9     8     7
+3 x + 1 x + 8 x + 7 x
+    8     7      6
+27 x + 8 x + 56 x + 7
+Derivees tour 2
+[+] Ok, here we are! You've reached the 3rd step!!!! WoW, you've 4.444444s to calculate this derivative where x = 8:
+
+val : 8
+f(x) = 2x^9 + 8x^6 + 4x^5 + 9x^7 + 1x^7 + 4x^9 + 6x^3
+f'(x) value?:
+
+ 2x^9 + 8x^6 + 4x^5 + 9x^7 + 1x^7 + 4x^9 + 6x^3
+2^9
+8^6
+4^5
+9^7
+1^7
+4^9
+6^3
+   9      7     6     5     3
+6 x + 10 x + 8 x + 4 x + 6 x
+    8      6      5      4      2
+54 x + 70 x + 48 x + 20 x + 18 x
+Derivees tour 3
+[+] Ok, here we are! You've reached the 3rd step!!!! WoW, you've 2.962963s to calculate this derivative where x = 4:
+
+val : 4
+f(x) = 6 + 5x^4 + 9x^6 + 6x^7 + 6x^4 + 7 + 3x^9 + 6x^6 + 1x^5
+f'(x) value?:
+
+ 6 + 5x^4 + 9x^6 + 6x^7 + 6x^4 + 7 + 3x^9 + 6x^6 + 1x^5
+6
+5^4
+9^6
+6^7
+6^4
+7
+3^9
+6^6
+1^5
+   9     7      6     5      4
+3 x + 6 x + 15 x + 1 x + 11 x + 13
+    8      6      5     4      3
+27 x + 42 x + 90 x + 5 x + 44 x
+Derivees tour 4
+[+] Ok, here we are! You've reached the 3rd step!!!! WoW, you've 1.975309s to calculate this derivative where x = 9:
+
+val : 9
+f(x) = 9x^3 + 6x^9 + 3x^5 + 2x^2 + 7x^2 + 3x^1 + 6x^2 + 9x^1 + 5x^4 + 3
+f'(x) value?:
+
+ 9x^3 + 6x^9 + 3x^5 + 2x^2 + 7x^2 + 3x^1 + 6x^2 + 9x^1 + 5x^4 + 3
+9^3
+6^9
+3^5
+2^2
+7^2
+3^1
+6^2
+9^1
+5^4
+3
+   9     5     4     3      2
+6 x + 3 x + 5 x + 9 x + 15 x + 12 x + 3
+    8      4      3      2
+54 x + 15 x + 20 x + 27 x + 30 x + 12
+Derivees tour 5
+[+] Ok, here we are! You've reached the 3rd step!!!! WoW, you've 1.316872s to calculate this derivative where x = 8:
+
+val : 8
+f(x) = 5 + 6x^4 + 9x^1 + 9x^8 + 9x^9 + 2x^7 + 9x^1 + 3x^3 + 6x^1 + 3x^4
+f'(x) value?:
+
+ 5 + 6x^4 + 9x^1 + 9x^8 + 9x^9 + 2x^7 + 9x^1 + 3x^3 + 6x^1 + 3x^4
+5
+6^4
+9^1
+9^8
+9^9
+2^7
+9^1
+3^3
+6^1
+3^4
+   9     8     7     4     3
+9 x + 9 x + 2 x + 9 x + 3 x + 24 x + 5
+    8      7      6      3     2
+81 x + 72 x + 14 x + 36 x + 9 x + 24
+Derivees tour 6
+[+] Ok, here we are! You've reached the 3rd step!!!! WoW, you've 0.877915s to calculate this derivative where x = 8:
+
+val : 8
+f(x) = 1x^5 + 9 + 1x^7 + 4x^5 + 3x^1 + 5x^8 + 8x^5 + 7 + 5x^2 + 9x^5 + 2x^1
+f'(x) value?:
+
+ 1x^5 + 9 + 1x^7 + 4x^5 + 3x^1 + 5x^8 + 8x^5 + 7 + 5x^2 + 9x^5 + 2x^1
+1^5
+9
+1^7
+4^5
+3^1
+5^8
+8^5
+7
+5^2
+9^5
+2^1
+   8     7      5     2
+5 x + 1 x + 22 x + 5 x + 5 x + 16
+    7     6       4
+40 x + 7 x + 110 x + 10 x + 5
+Derivees tour 7
+[+] Ok, here we are! You've reached the 3rd step!!!! WoW, you've 0.585277s to calculate this derivative where x = 1:
+
+val : 1
+f(x) = 5x^3 + 8x^7 + 4x^8 + 7x^9 + 5x^6 + 5x^7 + 8x^2 + 9x^8 + 5x^2 + 2x^8 + 5x^1
+f'(x) value?:
+
+ 5x^3 + 8x^7 + 4x^8 + 7x^9 + 5x^6 + 5x^7 + 8x^2 + 9x^8 + 5x^2 + 2x^8 + 5x^1
+5^3
+8^7
+4^8
+7^9
+5^6
+5^7
+8^2
+9^8
+5^2
+2^8
+5^1
+   9      8      7     6     3      2
+7 x + 15 x + 13 x + 5 x + 5 x + 13 x + 5 x
+    8       7      6      5      2
+63 x + 120 x + 91 x + 30 x + 15 x + 26 x + 5
+Derivees tour 8
+[+] Well done! For your trouble, here is THE FLAG: BREIZHCTF{I_W1sh_I_LisT3n_MoM_C0z_M4th_Is_N0t_r43lly_H4rD!!}
