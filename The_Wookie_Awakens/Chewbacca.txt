@@ -1,4 +1,9 @@
 https://github.com/dmke/wookie-translator
 
+
+admin' OR '1' LIKE '1' <> '
+
+wookie -e 
+
 rawascahwh" oorc "1" anahorwo "1" <> "
 --

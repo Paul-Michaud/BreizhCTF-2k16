@@ -1,3 +1,4 @@
+#IT'S WORKING SO I DON'T CARE !
 import urllib2
 import hashlib
 import itertools
